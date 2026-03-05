@@ -1,0 +1,118 @@
+{
+  "extensionName": {
+    "message": "QRabbit",
+    "description": "扩展名称"
+  },
+  "extensionDescription": {
+    "message": "二维码工具扩展：支持当前页面二维码生成、图片二维码右键扫描与 Sidebar 扫码结果展示。",
+    "description": "扩展描述"
+  },
+  "actionTitle": {
+    "message": "QRabbit - 扫码与生成二维码",
+    "description": "扩展按钮标题"
+  },
+  "sidebarPanelTitle": {
+    "message": "QRabbit Sidebar",
+    "description": "侧边栏标题"
+  },
+  "contextMenuScan": {
+    "message": "扫描二维码",
+    "description": "图片右键菜单标题"
+  },
+  "popupTitle": {
+    "message": "二维码生成",
+    "description": "Popup 标题"
+  },
+  "popupLabel": {
+    "message": "文本或链接",
+    "description": "Popup 输入标签"
+  },
+  "popupPlaceholder": {
+    "message": "请输入内容以生成二维码",
+    "description": "Popup 空提示"
+  },
+  "popupGenerateFailed": {
+    "message": "二维码生成失败",
+    "description": "Popup 生成失败提示"
+  },
+  "sidebarAppTitle": {
+    "message": "QRabbit",
+    "description": "Sidebar 标题"
+  },
+  "sidebarRefresh": {
+    "message": "刷新",
+    "description": "Sidebar 刷新按钮"
+  },
+  "sidebarRefreshing": {
+    "message": "刷新中...",
+    "description": "Sidebar 刷新中按钮文案"
+  },
+  "sidebarSectionCurrent": {
+    "message": "当前页面",
+    "description": "Sidebar 当前页面区块标题"
+  },
+  "sidebarSectionResults": {
+    "message": "页面图片扫码结果",
+    "description": "Sidebar 扫码结果区块标题"
+  },
+  "sidebarNoPageUrl": {
+    "message": "无可用页面地址",
+    "description": "Sidebar 无页面地址"
+  },
+  "sidebarCannotGenerate": {
+    "message": "当前页面无法生成二维码",
+    "description": "Sidebar 当前页面生成失败"
+  },
+  "sidebarNoResults": {
+    "message": "未找到可识别的二维码",
+    "description": "Sidebar 空结果提示"
+  },
+  "sidebarNoDecodedText": {
+    "message": "无解码文本",
+    "description": "Sidebar 无解码文本"
+  },
+  "sidebarLoading": {
+    "message": "正在加载...",
+    "description": "Sidebar 加载中"
+  },
+  "sidebarScanning": {
+    "message": "正在扫描页面图片...",
+    "description": "Sidebar 扫描中"
+  },
+  "sidebarLoadFailed": {
+    "message": "加载失败，请稍后重试",
+    "description": "Sidebar 加载失败"
+  },
+  "contentScanSuccessTitle": {
+    "message": "二维码识别成功",
+    "description": "内容脚本成功标题"
+  },
+  "contentScanSuccessFallback": {
+    "message": "已识别到二维码内容",
+    "description": "内容脚本成功兜底文案"
+  },
+  "contentScanFailedTitle": {
+    "message": "二维码识别失败",
+    "description": "内容脚本失败标题"
+  },
+  "contentScanFailedFallback": {
+    "message": "未识别到二维码",
+    "description": "内容脚本失败兜底文案"
+  },
+  "contentCopyResult": {
+    "message": "复制结果",
+    "description": "复制按钮文案"
+  },
+  "contentCopied": {
+    "message": "已复制",
+    "description": "复制成功文案"
+  },
+  "contentCopyFailed": {
+    "message": "复制失败",
+    "description": "复制失败文案"
+  },
+  "backgroundScanFailed": {
+    "message": "扫码失败",
+    "description": "后台通用扫码失败提示"
+  }
+}

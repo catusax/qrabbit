@@ -1,0 +1,118 @@
+{
+  "extensionName": {
+    "message": "QRabbit",
+    "description": "Extension name"
+  },
+  "extensionDescription": {
+    "message": "QR code toolkit: generate QR for current page, scan image QR via context menu, and view scan results in sidebar.",
+    "description": "Extension description"
+  },
+  "actionTitle": {
+    "message": "QRabbit - Scan & Generate QR",
+    "description": "Action button title"
+  },
+  "sidebarPanelTitle": {
+    "message": "QRabbit Sidebar",
+    "description": "Sidebar panel title"
+  },
+  "contextMenuScan": {
+    "message": "Scan QR Code",
+    "description": "Context menu title on images"
+  },
+  "popupTitle": {
+    "message": "QR Generator",
+    "description": "Popup main title"
+  },
+  "popupLabel": {
+    "message": "Text or URL",
+    "description": "Popup input label"
+  },
+  "popupPlaceholder": {
+    "message": "Enter text to generate QR code",
+    "description": "Popup empty placeholder"
+  },
+  "popupGenerateFailed": {
+    "message": "Failed to generate QR code",
+    "description": "Popup generate error"
+  },
+  "sidebarAppTitle": {
+    "message": "QRabbit",
+    "description": "Sidebar app title"
+  },
+  "sidebarRefresh": {
+    "message": "Refresh",
+    "description": "Sidebar refresh button"
+  },
+  "sidebarRefreshing": {
+    "message": "Refreshing...",
+    "description": "Sidebar refreshing button text"
+  },
+  "sidebarSectionCurrent": {
+    "message": "Current page",
+    "description": "Sidebar current page section title"
+  },
+  "sidebarSectionResults": {
+    "message": "QR scan results from page images",
+    "description": "Sidebar scan results section title"
+  },
+  "sidebarNoPageUrl": {
+    "message": "No page URL available",
+    "description": "Sidebar no page URL text"
+  },
+  "sidebarCannotGenerate": {
+    "message": "Unable to generate QR code for current page",
+    "description": "Sidebar cannot generate current page QR"
+  },
+  "sidebarNoResults": {
+    "message": "No recognizable QR code found",
+    "description": "Sidebar empty scan result"
+  },
+  "sidebarNoDecodedText": {
+    "message": "No decoded text",
+    "description": "Sidebar no decoded text"
+  },
+  "sidebarLoading": {
+    "message": "Loading...",
+    "description": "Sidebar loading text"
+  },
+  "sidebarScanning": {
+    "message": "Scanning images on this page...",
+    "description": "Sidebar scanning text"
+  },
+  "sidebarLoadFailed": {
+    "message": "Load failed, please try again",
+    "description": "Sidebar load failed text"
+  },
+  "contentScanSuccessTitle": {
+    "message": "QR code recognized",
+    "description": "Content success title"
+  },
+  "contentScanSuccessFallback": {
+    "message": "QR code content recognized",
+    "description": "Content success fallback text"
+  },
+  "contentScanFailedTitle": {
+    "message": "QR code recognition failed",
+    "description": "Content error title"
+  },
+  "contentScanFailedFallback": {
+    "message": "No QR code detected",
+    "description": "Content error fallback"
+  },
+  "contentCopyResult": {
+    "message": "Copy result",
+    "description": "Copy button text"
+  },
+  "contentCopied": {
+    "message": "Copied",
+    "description": "Copy success text"
+  },
+  "contentCopyFailed": {
+    "message": "Copy failed",
+    "description": "Copy failed text"
+  },
+  "backgroundScanFailed": {
+    "message": "Scan failed",
+    "description": "Background generic scan failed message"
+  }
+}
